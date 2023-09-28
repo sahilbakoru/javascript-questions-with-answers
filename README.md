@@ -14,7 +14,7 @@ From basic to advanced: test how well you know JavaScript, refresh your knowledg
 <p align="center">Feel free to reach out to me! 😊</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.lydiahallie.io/">Blog</a>
+  <a href="https://www.sahilbakoru.in">Sahilbakoru.in</a>
 </p>
 
 | Feel free to use them in a project! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations (yes I'm sad lol) and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun! |
